@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase Firestore</string>
+    <string name="enter_2nd_num">enter_2nd_num</string>
+    <string name="enter_1st_num">enter_1st_num</string>
+    <string name="division">/</string>
+    <string name="multiply">*</string>
+    <string name="power">^</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="c">C</string>
+</resources>
